@@ -70,4 +70,4 @@ is important in the scene.
 - JP: http://blog-jp.alpaca.ai/entry/2015/08/05/235408
 #############################################################################
 
-If you get this problem "ImportError: cannot import name '_validate_lengths'" ,you can get some help from <br>(here)[https://blog.csdn.net/kdongyi/article/details/102959040] and (here)[https://blog.csdn.net/TYtangyan/article/details/91442878]  
+>If you get this problem `ImportError: cannot import name '_validate_lengths'` ,you can get some help from  <br> [here](https://blog.csdn.net/kdongyi/article/details/102959040) and [here](https://blog.csdn.net/TYtangyan/article/details/91442878)
